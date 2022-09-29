@@ -1,0 +1,14 @@
+{
+    "name": "geremiapompei/nft_transfer",
+    "authors": [
+        {
+            "name": "Geremia Pompei",
+            "email": "geremiapompei@gmail.com"
+        }
+    ],
+    "require": {
+        "web3p/ethereum-tx": "^0.4.3",
+        "web3p/web3.php": "^0.1.6",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
